@@ -1,7 +1,7 @@
-Sure! Here is a sample `README.md` file for your MERN Street Food project:
 
-```markdown
-# MERN Street Food
+
+
+## MERN Street Food
 
 MERN Street Food is a full-stack web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. This project allows users to sign up, log in, and post blogs related to street food. 
 
