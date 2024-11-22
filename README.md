@@ -125,11 +125,6 @@ MERN-Street-Food/
 3. View all posted blogs.
 4. Delete blogs (if you are the author).
 
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request if you have any improvements or bug fixes.
-
-
 ```
 
 
